@@ -12,6 +12,6 @@ const product = {
 const { name, price, category } = product
 
 console.log(`Nombre: ${name}`)
-console.log(`Precio: $${price}`)
+console.log(`Precio: ${price}`)
 console.log(`Categoría: ${category}`)
 ```
